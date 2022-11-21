@@ -1,0 +1,43 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@6.9.96/css/materialdesignicons.min.css">
+        <title>Lista de Tarefas</title>
+    </head>
+
+    <body>
+
+    <h1>Lista de Tarefas</h1>
+
+    <header>
+        <input id="inputTarefas" type="text" placeholder="Digite aqui sua Tarefa">
+        <button onclick="adicionarTarefa()" id="btn-adicionar" class="adicionar">Adicionar</button>
+    </header>
+
+
+    <main id="campoLista">
+    <div class="item clicado">
+        <div class="item-icone">
+            <i class="mdi mdi-check-circle"></i>        
+        </div>
+        <div class="item-nome">
+            Teste de tarefa
+        </div>
+        <div class="item-botao">
+            <button class="delete">
+            <i class="mdi mdi-delete"></i> Deletar </button>        
+        </div>
+    </div>
+    </main>   
+
+        <footer>
+            <i class="mdi mdi-github"></i><a href="https://github.com/ThMenezes" target="_blank"> Thialla Menezes </a>
+        </footer>
+
+        <script src="script.js"></script>
+    </body>
+
+    </html>
