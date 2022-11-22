@@ -9,8 +9,9 @@
     </head>
 
     <body>
+        <img src="imagem/lembrete.png">
 
-    <h1>Lista de Tarefas</h1>
+    <h1>Lista de Tarefas Diárias</h1>
 
     <header>
         <input id="inputTarefas" type="text" placeholder="Digite aqui sua Tarefa">
@@ -19,12 +20,25 @@
 
 
     <main id="campoLista">
+    <div class="item">
+        <div class="item-icone">
+            <i class="mdi mdi-circle-outline"></i>        
+        </div>
+        <div class="item-nome">
+            Reunião às 10hs
+        </div>
+        <div class="item-botao">
+            <button class="delete">
+            <i class="mdi mdi-delete"></i> Deletar </button>        
+        </div>
+    </div>
+
     <div class="item clicado">
         <div class="item-icone">
             <i class="mdi mdi-check-circle"></i>        
         </div>
         <div class="item-nome">
-            Teste de tarefa
+            Revisão de roteiro 
         </div>
         <div class="item-botao">
             <button class="delete">
