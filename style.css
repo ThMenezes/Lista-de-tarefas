@@ -34,23 +34,23 @@ header {
 }
 
 input {
-    height: 90px;
+    height: 80px;
     font-size: 24px;
     font-weight: bold;
-    width: 80%;
+    width: 70%;
     padding-left: 10%;
     border-radius: 5px;    
 }
 
 button.adicionar {
-    width: 20%;
+    width: 15%;
     cursor: pointer;
     background: #379237;
     color: #ffffff;
     font-weight: bold;
     font-size: 16px;
     border: none;
-    height: 90px;
+    height: 80px;
     border-radius: 10px;
     margin-left: 10px;
 }
@@ -70,7 +70,7 @@ main {
     align-items: center;
     background: #ffffff;
     margin-left: 80px;
-    height: 80px;
+    height: 50px;
     width: 100%;
     box-shadow: 0 0 20px #EEEEEE;
     margin-bottom: 3%;
@@ -108,7 +108,7 @@ main {
     color: #ffffff;
     border: none;
     padding: 10px;
-    height: 80px;
+    height: 50px;
     width: 100%;
     cursor: pointer;
 }
