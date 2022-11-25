@@ -1,16 +1,29 @@
 <div align="center">
 
-# Lista de tarefas diárias
+# Lista de Tarefas Diárias
+
+![img-lista de tarefas](https://user-images.githubusercontent.com/109250801/204020498-e9af96d2-0c33-46e1-9be3-855664c8c623.png)
 
 
 ## Sobre o Projeto:
 
-Projeto tem como objetivo, fazer com que o usuário faça seu planejamento diário, para conseguir atingir seus objetivos de uma forma organizada e definindo suas prioridades.
+Projeto tem como objetivo, fazer com que o usuário faça seu planejamento constantemente, definindo suas prioridades, para conseguir atingir seus objetivos de uma forma organizada.
+
+## Link do projeto:
+
+https://thmenezes.github.io/Lista-de-tarefas/
 
 ## Como Utilizar:
-* 1-Basta escrever sua tarefa e adicionar, conforme for adicionando a lista começa a aparecer logo abaixo.
+* 1-Basta escrever sua tarefa e pressionar o botão adicionar, conforme for adicionando a lista começa a aparecer logo abaixo.
 * 2-Quando pressionar a atividade já realizada, ela ficará riscada e com sinalização de feita &#9989;
 * 3-Para excluir a atividade basta pressionar o botão delete.
+
+## Instruçõs de uso:
+
+Para que possa baixar esse projeto, será necessário:
+* Fazer clone do projeto, no botão verde escrito <>Code.
+* Selecionar a opção Download ZIP 
+* Ter instalado na máquina um editor de código, no meu caso utilizo Visual Studio Code.
 
 ## Ferramentas utilizadas:
 
